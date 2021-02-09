@@ -1,1 +1,1 @@
-#Curso ECMAScript 6+ de Platzi
+# Curso ECMAScript 6+ de Platzi
